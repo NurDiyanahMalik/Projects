@@ -9,24 +9,8 @@
         "answer": "How can I help?"   
     },
     {
-        "question": "Help",
-        "answer": "How can I help?"   
-    },
-    {
-        "question": "Help",
-        "answer": "How can I help?"   
-    },
-    {
-        "question": "Help",
-        "answer": "How can I help?"   
-    },
-    {
-        "question": "Help",
-        "answer": "How can I help?"   
-    },
-    {
-        "question": "Help",
-        "answer": "How can I help?"   
+        "question": "Could you summarize this document for me?",
+        "answer": "Verra's methodologies are crucial in determining the genuine greenhouse gas (GHG) benefits of a project and creating Verified Carbon Units (VCUs). These methodologies establish guidelines for outlining project boundaries, identifying baselines, evaluating additionality, monitoring relevant parameters, and quantifying GHG emission reductions or removals. Additionally, within the VCS Program, approved methodologies are utilized, and while some are under development, projects adhering to program regulations can also employ methodologies from other approved GHG programs, such as Clean Development Mechanism (CDM) methodologies and Climate Action Reserve (CAR) protocols, with exceptions listed in the VCS Standard's Table 1. Verra conducts periodic reviews of VCS methodologies, ensuring alignment with best practices, scientific consensus, and market conditions. These reviews occur every five years or as necessary, potentially leading to revisions or temporary deactivation of methodology versions. However, projects cannot use methodologies from other GHG programs that overlap with VCS methodologies. Stakeholders can propose new or revised VCS methodologies, prioritizing ideas with broad applicability, high climate change mitigation potential, support for sustainable development, and minimal associated risks. These proposals may be developed by third-parties or funded by Verra, depending on various factors. The SD VISta Program offers methodologies to quantify specific sustainable development benefits, requiring projects to use approved methodologies to measure and issue SD VISta assets representing these benefits. In the Plastic Program, methodologies detail procedures for quantifying plastic waste collected or recycled as a project outcome, guiding project developers in determining boundaries, setting baselines, and evaluating additionality. Periodic reviews ensure conformity with current requirements and best practices, with updates or withdrawals applied and communicated on Verra's website."
     }
   ]
 }
