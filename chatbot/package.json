@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "openai": "^4.20.1",
+    "readline-sync": "^1.4.10"
+  },
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Chatgpt chatbot",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "UNLICENSED"
+}
