@@ -1,5 +1,5 @@
 # My Projects
 
 ## School-based:
-• `OCRbot` folder
+• `telebot_DSA3101` folder
     ‣ Contains code to build a telebot for DSA3101.
